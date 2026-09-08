@@ -48,6 +48,22 @@ _Halo, saya **Adityaa**. Saya menulis script game Roblox dengan **Lua/Luau**, me
   <img src="https://streak-stats.demolab.com/?user=kiraadityaa&theme=catppuccin_mocha&hide_border=true&background=1e1e2e&ring=fab387&fire=fab387&currStreakLabel=cdd6f4&sideLabels=a6adc8&dates=6c7086&currStreakNum=cdd6f4&sideNums=a6adc8" alt="GitHub streak" />
 </p>
 
+## Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiraadityaa&theme=github_dark&bg_color=1e1e2e&border_color=313244&text_color=cdd6f4&title_color=94e2d5&icon_color=94e2d5" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiraadityaa&theme=github_dark&bg_color=1e1e2e&border_color=313244&text_color=cdd6f4&title_color=94e2d5&icon_color=94e2d5" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiraadityaa&theme=github_dark&bg_color=1e1e2e&border_color=313244&text_color=cdd6f4&title_color=94e2d5&icon_color=94e2d5" alt="Top languages by commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiraadityaa&theme=github_dark&bg_color=1e1e2e&border_color=313244&text_color=cdd6f4&title_color=94e2d5&icon_color=94e2d5" alt="Profile stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kiraadityaa&theme=github_dark&bg_color=1e1e2e&border_color=313244&text_color=cdd6f4&title_color=94e2d5&icon_color=94e2d5&utcOffset=7" alt="Productive time (WIB)" />
+</p>
+
 ## Featured projects
 
 - **[rich-linux-crd](https://github.com/kiraadityaa/rich-linux-crd)** — Ubuntu 24.04 desktop (Cinnamon & GNOME) on GitHub Actions + Chrome Remote Desktop, with Chrome, VS Code and OpenCode preinstalled.
