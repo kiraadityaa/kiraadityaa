@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Adityaa — Lua (Roblox) developer banner" width="900" />
+  <img src="assets/profile-banner.png" alt="Adityaa — Lua (Roblox) developer banner" width="900" />
 </p>
 
 <p align="center">
