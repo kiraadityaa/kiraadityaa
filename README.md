@@ -40,8 +40,8 @@ _Halo, saya **Adityaa**. Saya menulis script game Roblox dengan **Lua/Luau**, me
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiraadityaa&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiraadityaa&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6" alt="Top languages" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kiraadityaa&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=kiraadityaa&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6" alt="Top languages" />
 </p>
 
 <p align="center">
