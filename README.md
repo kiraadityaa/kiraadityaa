@@ -1,6 +1,5 @@
 <p align="center">
   <img src="assets/hero.png" alt="Adityaa — Lua (Roblox) developer banner" width="900" />
-  <div class="tenor-gif-embed" data-postid="15668377704818874518" data-share-method="host" data-aspect-ratio="1.26396" data-width="100%"><a href="https://tenor.com/view/anime-k-on-k-on-gif-15668377704818874518">Anime K-on Sticker</a>from <a href="https://tenor.com/search/anime-stickers">Anime Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <p align="center">
