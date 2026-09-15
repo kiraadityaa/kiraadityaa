@@ -1,41 +1,43 @@
 <p align="center">
-  <img src="assets/hero.png" alt="Adityaa — Lua (Roblox) developer banner" width="900" />
+  <a href="https://github.com/kiraadityaa">
+    <img src="assets/profile-banner.svg" alt="Adityaa — MasAdityaa.lua · Lua (Roblox) · Python · TypeScript · Next.js" width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <b>Adityaa</b> · <i>MasAdityaa.lua</i> — Lua (Roblox) developer who also ships Python & TypeScript/Next.js.
+  <b>Adityaa</b> · <code>MasAdityaa.lua</code>
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=CBA6F7&center=true&vCenter=true&width=520&lines=Lua+%2F+Luau+Scripter;Python+Automation;TypeScript+%2B+Next.js;Cloud+Linux+Desktops" alt="Typing: Lua / Luau Scripter · Python Automation · TypeScript + Next.js · Cloud Linux Desktops" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/kiraadityaa"><img src="https://img.shields.io/badge/GitHub-kiraadityaa-313244?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="GitHub" /></a>
   <a href="https://instagram.com/aaaditz_"><img src="https://img.shields.io/badge/Instagram-aaaditz_-313244?style=for-the-badge&logo=instagram&logoColor=f5c2e7" alt="Instagram" /></a>
   <a href="https://tiktok.com/@kiraadityaa"><img src="https://img.shields.io/badge/TikTok-kiraadityaa-313244?style=for-the-badge&logo=tiktok&logoColor=cdd6f4" alt="TikTok" /></a>
   <a href="https://wa.me/6281553362795"><img src="https://img.shields.io/badge/WhatsApp-6281553362795-313244?style=for-the-badge&logo=whatsapp&logoColor=a6e3a1" alt="WhatsApp" /></a>
-  <a href="https://pt-andromega.vercel.app"><img src="https://img.shields.io/badge/Portfolio-pt--andromega-313244?style=for-the-badge&logo=vercel&logoColor=cdd6f4" alt="Portfolio" /></a>
+  <a href="https://masadityaaa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-masadityaaa.vercel.app-313244?style=for-the-badge&logo=vercel&logoColor=cdd6f4" alt="Portfolio" /></a>
 </p>
 
 ---
 
-Hi, I'm **Adityaa**. I script Roblox games with **Lua/Luau**, automate and build tools with **Python**, and craft web apps with **TypeScript + Next.js**. I enjoy clean, professional code — whether it's a game script, a browser extension, or a desktop that runs in the cloud.
+## About
 
-_Halo, saya **Adityaa**. Saya menulis script game Roblox dengan **Lua/Luau**, membangun tools dan otomasi dengan **Python**, serta membuat aplikasi web dengan **TypeScript + Next.js**._
+Hi, I'm **Adityaa** — a TKJ student exploring the cloud, and a developer who scripts Roblox games with **Lua/Luau**, automates and ships tools with **Python**, and builds web apps with **TypeScript + Next.js**. I like clean, working code — a game script, a browser extension, or a full Linux desktop running in the cloud.
 
----
+_Halo, saya **Adityaa** — pelajar TKJ yang hobi bereksperimen dengan cloud. Saya menulis script game Roblox dengan **Lua/Luau**, membuat tools dan otomasi dengan **Python**, serta membangun aplikasi web dengan **TypeScript + Next.js**. Saya suka kode yang rapi dan benar-benar jalan — dari script game, ekstensi browser, sampai desktop Linux yang berjalan di cloud._
 
 ## Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Lua---313244?style=for-the-badge&logo=lua&logoColor=cba6f7" alt="Lua" />
-  <img src="https://img.shields.io/badge/Roblox_Studio---313244?style=for-the-badge&logo=robloxstudio&logoColor=f5c2e7" alt="Roblox Studio" />
-  <img src="https://img.shields.io/badge/Python---313244?style=for-the-badge&logo=python&logoColor=a6e3a1" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript---313244?style=for-the-badge&logo=typescript&logoColor=89b4fa" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js---313244?style=for-the-badge&logo=nextdotjs&logoColor=fab387" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Git---313244?style=for-the-badge&logo=git&logoColor=f38ba8" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=lua,py,ts,nextjs,nodejs,linux,git,docker,bash,github" alt="Lua · Python · TypeScript · Next.js · Linux · Git · Docker" />
 </p>
 
-- ▸ Game scripting: **Lua / Luau** inside Roblox Studio `while true do ... end`
-- ▸ Automation & tooling: **Python** scripts, browsers, workflows
-- ▸ Web: **TypeScript**, **Next.js**, frontend craft
-- ▸ Systems: Linux, GitHub Actions, Chrome Remote Desktop
+- ▸ **Game scripting** — Lua / Luau in Roblox Studio · `while true do build(game) end`
+- ▸ **Automation & tooling** — Python scripts, browsers, GitHub Actions
+- ▸ **Web** — TypeScript, Next.js, frontend craft
+- ▸ **Cloud systems** — Linux desktops on GitHub Actions, Docker & Railway
 
 ## Stats
 
@@ -48,15 +50,10 @@ _Halo, saya **Adityaa**. Saya menulis script game Roblox dengan **Lua/Luau**, me
   <img src="https://streak-stats.demolab.com/?user=kiraadityaa&theme=catppuccin_mocha&hide_border=true&background=1e1e2e&ring=fab387&fire=fab387&currStreakLabel=cdd6f4&sideLabels=a6adc8&dates=6c7086&currStreakNum=cdd6f4&sideNums=a6adc8" alt="GitHub streak" />
 </p>
 
-## Profile Summary
+## Profile summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiraadityaa&theme=github_dark&bg_color=1e1e2e&border_color=313244&text_color=cdd6f4&title_color=94e2d5&icon_color=94e2d5" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiraadityaa&theme=github_dark&bg_color=1e1e2e&border_color=313244&text_color=cdd6f4&title_color=94e2d5&icon_color=94e2d5" alt="Top languages by repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiraadityaa&theme=github_dark&bg_color=1e1e2e&border_color=313244&text_color=cdd6f4&title_color=94e2d5&icon_color=94e2d5" alt="Top languages by commit" />
 </p>
 
 <p align="center">
@@ -66,10 +63,16 @@ _Halo, saya **Adityaa**. Saya menulis script game Roblox dengan **Lua/Luau**, me
 
 ## Featured projects
 
-- **[rich-linux-crd](https://github.com/kiraadityaa/rich-linux-crd)** — Ubuntu 24.04 desktop (Cinnamon & GNOME) on GitHub Actions + Chrome Remote Desktop, with Chrome, VS Code and OpenCode preinstalled.
-- **[discord-auto-quest](https://github.com/kiraadityaa/discord-auto-quest)** — Browser extension that auto-completes Discord quests, with a "super-safe" anti-detection mode (for education/research).
-- **[script-emote](https://github.com/kiraadityaa/script-emote)** — Grab Roblox emotes and animations for free.
-- **[portfolio](https://github.com/kiraadityaa/portfolio)** — My Next.js web presence.
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**rich-linux-crd**](https://github.com/kiraadityaa/rich-linux-crd) | Ubuntu 24.04 desktop (Cinnamon & GNOME) on GitHub Actions + Chrome Remote Desktop — Chrome, VS Code & OpenCode preinstalled. | Shell · Docker |
+| [**setup-opencode**](https://github.com/kiraadityaa/setup-opencode) | One-command OpenCode AI coding agent environment: 5 MCP servers, 6 agents, 7 commands, 10+ skills, browser automation — all free. | Shell |
+| [**shrinkray**](https://github.com/kiraadityaa/shrinkray) | Compress video for Discord / WhatsApp / Telegram 100% in your browser. No upload, private by design (Next.js + FFmpeg-WASM). | TypeScript · Next.js |
+| [**KiraaDown**](https://github.com/kiraadityaa/KiraaDown) | Free TikTok downloader — no-watermark videos, slideshows & MP3 audio. Zero budget, deployed on Vercel. | TypeScript · Next.js |
+| [**portfolio**](https://github.com/kiraadityaa/portfolio) | My Next.js web presence — student life, Linux & the cloud. | TypeScript · Next.js |
+| [**discord-auto-quest**](https://github.com/kiraadityaa/discord-auto-quest) | Browser extension that auto-completes Discord quests, with a super-safe anti-detection mode. Education & research only. | JavaScript |
+
+More experiments: [universal-vm-runner](https://github.com/kiraadityaa/universal-vm-runner) · [kagura-portfolio](https://github.com/kiraadityaa/kagura-portfolio) · [data-libur-nasional-indonesia](https://github.com/kiraadityaa/data-libur-nasional-indonesia) · [script-emote](https://github.com/kiraadityaa/script-emote)
 
 ## Connect
 
@@ -77,9 +80,9 @@ _Halo, saya **Adityaa**. Saya menulis script game Roblox dengan **Lua/Luau**, me
   <a href="https://instagram.com/aaaditz_">Instagram: <code>aaaditz_</code></a> ·
   <a href="https://tiktok.com/@kiraadityaa">TikTok: <code>kiraadityaa</code></a> ·
   <a href="https://wa.me/6281553362795">WhatsApp: <code>6281553362795</code></a> ·
-  <a href="https://pt-andromega.vercel.app">pt-andromega.vercel.app</a>
+  <a href="https://masadityaaa.vercel.app">masadityaaa.vercel.app</a>
 </p>
 
 ---
 
-<p align="center"><i>Lua Developer | Roblox Exploit</i> — <code>while true do build(stuff) end</code></p>
+<p align="center"><i>Lua Developer</i> · Roblox Scripter — <code>while true do build(stuff) end</code></p>
