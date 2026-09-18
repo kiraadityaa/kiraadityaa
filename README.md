@@ -4,6 +4,8 @@
   </a>
 </p>
 
+# Adityaa — Lua (Roblox) Scripter · Python Automation · TypeScript & Next.js
+
 <p align="center">
   <b>Adityaa</b> · <code>MasAdityaa.lua</code>
 </p>
@@ -24,14 +26,16 @@
 
 ## About
 
-Hi, I'm **Adityaa** — a TKJ student exploring the cloud, and a developer who scripts Roblox games with **Lua/Luau**, automates and ships tools with **Python**, and builds web apps with **TypeScript + Next.js**. I like clean, working code — a game script, a browser extension, or a full Linux desktop running in the cloud.
+Hi, I'm **Adityaa** — a Roblox game developer and Lua/Luau scripter from **Indonesia**, and a TKJ vocational student exploring the cloud. I automate and ship tools with **Python**, build web apps with **TypeScript + Next.js**, run **cloud Linux desktops** with **Docker** and **GitHub Actions**, and publish **open-source** projects. I like clean, working code — a game script, a browser extension, or a full Linux desktop running in the cloud.
 
 _Halo, saya **Adityaa** — pelajar TKJ yang hobi bereksperimen dengan cloud. Saya menulis script game Roblox dengan **Lua/Luau**, membuat tools dan otomasi dengan **Python**, serta membangun aplikasi web dengan **TypeScript + Next.js**. Saya suka kode yang rapi dan benar-benar jalan — dari script game, ekstensi browser, sampai desktop Linux yang berjalan di cloud._
 
-## Stack
+## Skills & Tech
+
+**Lua · Luau · Python · TypeScript · Next.js · Node.js · Linux · Git · Docker · GitHub Actions · Bash**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,py,ts,nextjs,nodejs,linux,git,docker,bash,github" alt="Lua · Python · TypeScript · Next.js · Linux · Git · Docker" />
+  <img src="https://skillicons.dev/icons?i=lua,py,ts,nextjs,nodejs,linux,git,docker,bash,github" alt="Lua · Luau · Python · TypeScript · Next.js · Node.js · Linux · Git · Docker · Bash · GitHub Actions" />
 </p>
 
 - ▸ **Game scripting** — Lua / Luau in Roblox Studio · `while true do build(game) end`
@@ -63,12 +67,14 @@ _Halo, saya **Adityaa** — pelajar TKJ yang hobi bereksperimen dengan cloud. Sa
 
 ## Featured projects
 
+From Roblox game tooling to browser apps and cloud experiments — projects I build and maintain in the open:
+
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**rich-linux-crd**](https://github.com/kiraadityaa/rich-linux-crd) | Ubuntu 24.04 desktop (Cinnamon & GNOME) on GitHub Actions + Chrome Remote Desktop — Chrome, VS Code & OpenCode preinstalled. | Shell · Docker |
+| [**rich-linux-crd**](https://github.com/kiraadityaa/rich-linux-crd) | Ubuntu 24.04 Linux desktop (Cinnamon & GNOME) running on GitHub Actions with Chrome Remote Desktop — Chrome, VS Code & OpenCode preinstalled. | Shell · Docker |
 | [**setup-opencode**](https://github.com/kiraadityaa/setup-opencode) | One-command OpenCode AI coding agent environment: 5 MCP servers, 6 agents, 7 commands, 10+ skills, browser automation — all free. | Shell |
-| [**shrinkray**](https://github.com/kiraadityaa/shrinkray) | Compress video for Discord / WhatsApp / Telegram 100% in your browser. No upload, private by design (Next.js + FFmpeg-WASM). | TypeScript · Next.js |
-| [**KiraaDown**](https://github.com/kiraadityaa/KiraaDown) | Free TikTok downloader — no-watermark videos, slideshows & MP3 audio. Zero budget, deployed on Vercel. | TypeScript · Next.js |
+| [**shrinkray**](https://github.com/kiraadityaa/shrinkray) | Open-source browser video compressor — shrink video for Discord / WhatsApp / Telegram 100% locally with FFmpeg-WASM. No upload, private by design. | TypeScript · Next.js |
+| [**KiraaDown**](https://github.com/kiraadityaa/KiraaDown) | Free TikTok video downloader — no-watermark videos, slideshows & MP3 audio. Zero budget, deployed on Vercel. | TypeScript · Next.js |
 | [**portfolio**](https://github.com/kiraadityaa/portfolio) | My Next.js web presence — student life, Linux & the cloud. | TypeScript · Next.js |
 | [**discord-auto-quest**](https://github.com/kiraadityaa/discord-auto-quest) | Browser extension that auto-completes Discord quests, with a super-safe anti-detection mode. Education & research only. | JavaScript |
 
@@ -85,4 +91,4 @@ More experiments: [universal-vm-runner](https://github.com/kiraadityaa/universal
 
 ---
 
-<p align="center"><i>Lua Developer</i> · Roblox Scripter — <code>while true do build(stuff) end</code></p>
+<p align="center"><i>Roblox Lua Developer</i> · Python Automation · TypeScript & Next.js · Indonesia — <code>while true do build(stuff) end</code></p>
