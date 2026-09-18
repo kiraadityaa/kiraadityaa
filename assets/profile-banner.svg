@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Adityaa — MasAdityaa.lua, Lua Developer Roblox banner">
-  <title>Adityaa — MasAdityaa.lua | Lua Developer Roblox</title>
-  <desc>Catppuccin Mocha profile banner for Adityaa (MasAdityaa.lua), a Lua Developer focused on Roblox, also building with Python, TypeScript and Next.js. Left wordmark with stack pills, right Luau terminal with connection ring.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Kazehaya Aditya — kiraadityaa, Lua Developer Roblox banner">
+  <title>Kazehaya Aditya — kiraadityaa | Lua Developer Roblox</title>
+  <desc>Catppuccin Mocha profile banner for Kazehaya Aditya (kiraadityaa), a Lua Developer focused on Roblox, also building with Python, TypeScript and Next.js. Left wordmark with stack pills, right Luau terminal with connection ring.</desc>
 
   <style>
     .bg           { fill: #11111b; }
@@ -42,12 +42,12 @@
 
   <!-- Left identity column -->
   <g transform="translate(88,0)">
-    <text x="0" y="146" font-size="68" font-weight="800" letter-spacing="-1" class="t-title">Adityaa</text>
+    <text x="0" y="146" font-size="68" font-weight="800" letter-spacing="-1" class="t-title">Kazehaya Aditya</text>
 
     <!-- Alias pill -->
     <rect x="0" y="166" width="216" height="38" rx="19" class="pill" stroke-width="1.5"/>
     <circle cx="24" cy="185" r="6" class="accent"/>
-    <text x="40" y="191" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700" class="alias-text">MasAdityaa.lua</text>
+    <text x="40" y="191" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700" class="alias-text">@kiraadityaa</text>
 
     <text x="2" y="238" font-size="22" font-weight="600" class="t-sub">Lua Developer | Roblox</text>
     <rect x="0" y="256" width="464" height="2" rx="1" class="divider"/>
@@ -84,7 +84,7 @@
     <circle cx="764" cy="98" r="6" class="red"/>
     <circle cx="786" cy="98" r="6" class="yellow"/>
     <circle cx="808" cy="98" r="6" class="green"/>
-    <text x="828" y="103" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" class="mono-dim">masadityaa - luau</text>
+    <text x="828" y="103" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" class="mono-dim">kazehaya - luau</text>
     <!-- Lua moon mark in header -->
     <circle cx="1084" cy="98" r="14" class="moon"/>
     <circle cx="1079" cy="93" r="5" class="moon-cut"/>

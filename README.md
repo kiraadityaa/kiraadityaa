@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://github.com/kiraadityaa">
-    <img src="assets/profile-banner.svg" alt="Adityaa — MasAdityaa.lua · Lua (Roblox) · Python · TypeScript · Next.js" width="100%" />
+    <img src="assets/profile-banner.svg" alt="Kazehaya Aditya — kiraadityaa · Lua (Roblox) · Python · TypeScript · Next.js" width="100%" />
   </a>
 </p>
 
-# Adityaa — Lua (Roblox) Scripter · Python Automation · TypeScript & Next.js
+# Kazehaya Aditya — Lua (Roblox) Scripter · Python Automation · TypeScript & Next.js
 
 <p align="center">
-  <b>Adityaa</b> · <code>MasAdityaa.lua</code>
+  <b>Kazehaya Aditya</b> · <code>kiraadityaa</code>
 </p>
 
 <p align="center">
@@ -26,9 +26,9 @@
 
 ## About
 
-Hi, I'm **Adityaa** — a Roblox game developer and Lua/Luau scripter from **Indonesia**, and a TKJ vocational student exploring the cloud. I automate and ship tools with **Python**, build web apps with **TypeScript + Next.js**, run **cloud Linux desktops** with **Docker** and **GitHub Actions**, and publish **open-source** projects. I like clean, working code — a game script, a browser extension, or a full Linux desktop running in the cloud.
+Hi, I'm **Kazehaya Aditya** — a Roblox game developer and Lua/Luau scripter from **Indonesia**, and a TKJ vocational student exploring the cloud. I automate and ship tools with **Python**, build web apps with **TypeScript + Next.js**, run **cloud Linux desktops** with **Docker** and **GitHub Actions**, and publish **open-source** projects. I like clean, working code — a game script, a browser extension, or a full Linux desktop running in the cloud.
 
-_Halo, saya **Adityaa** — pelajar TKJ yang hobi bereksperimen dengan cloud. Saya menulis script game Roblox dengan **Lua/Luau**, membuat tools dan otomasi dengan **Python**, serta membangun aplikasi web dengan **TypeScript + Next.js**. Saya suka kode yang rapi dan benar-benar jalan — dari script game, ekstensi browser, sampai desktop Linux yang berjalan di cloud._
+_Halo, saya **Kazehaya Aditya** — pelajar TKJ yang hobi bereksperimen dengan cloud. Saya menulis script game Roblox dengan **Lua/Luau**, membuat tools dan otomasi dengan **Python**, serta membangun aplikasi web dengan **TypeScript + Next.js**. Saya suka kode yang rapi dan benar-benar jalan — dari script game, ekstensi browser, sampai desktop Linux yang berjalan di cloud._
 
 ## Skills & Tech
 
